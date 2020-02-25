@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1582597970 source:d:\introduction to procedural programming\projects\project 1\hello world.c
+
+1582598046 source:d:\introduction to procedural programming\projects\project 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1582601444 source:d:\introduction to procedural programming\projects\project 1\123.c
+	<stdio.h>
+	<stdlib.h>
+
+1582602194 source:d:\introduction to procedural programming\projects\project 1\intrinsic documentation.c
+	<stdio.h>
+	<stdlib.h>
+
+1582602736 source:d:\introduction to procedural programming\projects\project 1\basic arithmetic.c
+	<stdio.h>
+
+1582603854 source:d:\introduction to procedural programming\projects\project 1\operator precedence basics.c
+	<stdio.h>
+
+1582604018 source:d:\introduction to procedural programming\projects\project 1\operator precedence basics (question 1).c
+	<stdio.h>
+
+1582604144 source:d:\introduction to procedural programming\projects\project 1\operator precedence basics (question 2).c
+	<stdio.h>
+
